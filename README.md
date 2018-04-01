@@ -7,9 +7,13 @@ Copyright (c) 2017-2018, AEC, The Emarat Coin Project
 Development and Community Resources
 ===========================
 Web: https://emaratcoin.com
+
 Twitter: https://twitter.com/EmaratCoin
+
 Facebook: https://www.facebook.com/EmaratCoin
+
 Telegram: https://t.me/EmaratCoinOfficial
+
 Github: https://github.com/emaratcoin
 
 IRC: #AEC
