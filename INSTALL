@@ -1,0 +1,9 @@
+Building EmaratCoin
+
+See doc/readme-qt.rst for instructions on building EmaratCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of EmaratCoin.
+
+See doc/build-*.txt for instructions on building emaratcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of EmaratCoin.
